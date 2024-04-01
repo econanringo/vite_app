@@ -1,2 +1,2 @@
-            - name: Cache
+- name: Cache
   uses: actions/cache@v4.0.2
